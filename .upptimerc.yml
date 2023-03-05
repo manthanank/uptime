@@ -13,6 +13,8 @@ sites:
     url: https://manthanank.github.io/learn-javascript
   - name: Learn Angular
     url: https://learn-angular-app.vercel.app
+  - name: Gatsby Blogs App
+    url: https://gatsbyblogsapp.gatsbyjs.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
