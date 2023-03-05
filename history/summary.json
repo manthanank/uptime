@@ -94,19 +94,19 @@
     "url": "https://gatsbyblogsapp.gatsbyjs.io",
     "icon": "https://icons.duckduckgo.com/ip3/gatsbyblogsapp.gatsbyjs.io.ico",
     "slug": "gatsby-blogs-app",
-    "status": "down",
-    "uptime": "91.43%",
-    "uptimeDay": "91.43%",
-    "uptimeWeek": "91.43%",
-    "uptimeMonth": "91.43%",
-    "uptimeYear": "91.43%",
-    "time": 488,
-    "timeDay": 488,
-    "timeWeek": 488,
-    "timeMonth": 488,
-    "timeYear": 488,
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {
-      "2023-03-05": 0
+      "2023-03-05": 18
     }
   },
   {
