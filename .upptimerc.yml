@@ -15,6 +15,12 @@ sites:
     url: https://learn-angular-app.vercel.app
   - name: Gatsby Blogs App
     url: https://gatsbyblogsapp.gatsbyjs.io
+  - name: Upload Post App - MEAN Stack
+    url: https://upload-post-app.vercel.app
+  - name: Linktree Clone App - Angular
+    url: https://linktree-clone-angular.vercel.app
+  - name: Food Store App - Angular
+    url: https://food-store-app-angular.web.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
