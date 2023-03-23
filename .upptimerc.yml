@@ -11,8 +11,6 @@ sites:
     url: https://manthanank.github.io/javascript-projects
   - name: Learn JavaScript
     url: https://manthanank.github.io/learn-javascript
-  - name: Learn Angular
-    url: https://learn-angular-app.vercel.app
   - name: Gatsby Blogs App
     url: https://gatsbyblogsapp.gatsbyjs.io
   - name: Upload Post App - MEAN Stack
