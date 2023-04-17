@@ -7,6 +7,8 @@ sites:
     url: https://manthanank.github.io
   - name: Full Stack Portfolio
     url: https://manthanank.web.app
+  - name: Blogs
+    url: https://manthanank.github.io/blogs/
   - name: JavaScript Projects
     url: https://manthanank.github.io/javascript-projects
   - name: Learn JavaScript
