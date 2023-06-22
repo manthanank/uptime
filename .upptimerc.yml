@@ -14,7 +14,7 @@ sites:
   - name: Learn JavaScript
     url: https://manthanank.github.io/learn-javascript
   - name: Gatsby Blogs App
-    url: https://gatsbyblogsapp.gatsbyjs.io
+    url: https://blogsapp.gatsbyjs.io
   - name: Upload Post App - MEAN Stack
     url: https://upload-post-app.vercel.app
   - name: Linktree Clone App - Angular
