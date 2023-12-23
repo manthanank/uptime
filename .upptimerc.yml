@@ -13,8 +13,8 @@ sites:
     url: https://manthanank.github.io/javascript-projects
   - name: Learn JavaScript
     url: https://manthanank.github.io/learn-javascript
-  - name: Gatsby Blogs App
-    url: https://gatsbyblogsapp.netlify.app/
+  - name: CheatSheet - Gatsby
+    url: https://cheatsheetapp.netlify.app/
   - name: Upload Post App - MEAN Stack
     url: https://upload-post-app.vercel.app
   - name: Linktree Clone App - Angular
