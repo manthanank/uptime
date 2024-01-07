@@ -94,18 +94,20 @@
     "url": "https://cheatsheetapp.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/cheatsheetapp.netlify.app.ico",
     "slug": "cheat-sheet-gatsby",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 91,
-    "timeDay": 46,
-    "timeWeek": 60,
-    "timeMonth": 91,
-    "timeYear": 91,
-    "dailyMinutesDown": {}
+    "time": 87,
+    "timeDay": 38,
+    "timeWeek": 57,
+    "timeMonth": 87,
+    "timeYear": 87,
+    "dailyMinutesDown": {
+      "2024-01-07": 0
+    }
   },
   {
     "name": "Upload Post App - MEAN Stack",
