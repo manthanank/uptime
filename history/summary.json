@@ -114,19 +114,19 @@
     "url": "https://upload-post-app.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/upload-post-app.vercel.app.ico",
     "slug": "upload-post-app-mean-stack",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 185,
-    "timeWeek": 123,
-    "timeMonth": 110,
+    "timeDay": 173,
+    "timeWeek": 126,
+    "timeMonth": 111,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 7
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "https://linktree-clone-angular.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/linktree-clone-angular.vercel.app.ico",
     "slug": "linktree-clone-app-angular",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 156,
-    "timeWeek": 127,
+    "timeDay": 139,
+    "timeWeek": 124,
     "timeMonth": 108,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 7
     }
   },
   {
