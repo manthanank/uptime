@@ -21,7 +21,7 @@ sites:
     url: https://linktree-clone-angular.vercel.app
   - name: Food Store App - Angular
     url: https://food-store-app-angular.web.app
- - name: Blog App - Angular
+  - name: Blog App - Angular
     url: https://blog-app-manthanank.vercel.app
 
 status-website:
