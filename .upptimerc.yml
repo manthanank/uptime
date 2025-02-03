@@ -15,7 +15,7 @@ sites:
     url: https://manthanank.github.io/learn-javascript
   - name: CheatSheet - Gatsby
     url: https://cheatsheetsapp.netlify.app/
-  - name: Upload Post App - MEAN Stack
+  - name: Upload Post App - Angular
     url: https://upload-post-app.vercel.app
   - name: Linktree Clone App - Angular
     url: https://linktree-clone-angular.vercel.app
@@ -23,6 +23,12 @@ sites:
     url: https://food-store-app-angular.web.app
   - name: Blog App - Angular
     url: https://blog-app-manthanank.vercel.app
+  - name: Visitor Tracking Dashboard - MEAN Stack
+    url: https://visitor-tracking-dashboard.vercel.app
+  - name: Code Sharing App - Angular
+    url: https://code-sharing-app-manthanank.vercel.app
+  - name: Music Player App - Angular
+    url: https://music-player-manthanank.vercel.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
