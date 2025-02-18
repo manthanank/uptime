@@ -94,19 +94,19 @@
     "url": "https://cheatsheetsapp.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/cheatsheetsapp.netlify.app.ico",
     "slug": "cheat-sheet-gatsby",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 140,
-    "timeWeek": 269,
-    "timeMonth": 210,
+    "timeDay": 138,
+    "timeWeek": 256,
+    "timeMonth": 208,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-02-18": 7
+      "2025-02-18": 0
     }
   },
   {
