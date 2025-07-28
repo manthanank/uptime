@@ -94,18 +94,20 @@
     "url": "https://cheatsheetsapp.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/cheatsheetsapp.netlify.app.ico",
     "slug": "cheat-sheet-gatsby",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 39,
-    "timeWeek": 235,
+    "timeDay": 165,
+    "timeWeek": 242,
     "timeMonth": 293,
-    "timeYear": 203,
-    "dailyMinutesDown": {}
+    "timeYear": 204,
+    "dailyMinutesDown": {
+      "2025-07-28": 0
+    }
   },
   {
     "name": "Upload Post App - Angular",
