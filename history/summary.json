@@ -13,7 +13,7 @@
     "time": 114,
     "timeDay": 56,
     "timeWeek": 94,
-    "timeMonth": 107,
+    "timeMonth": 106,
     "timeYear": 122,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 131,
     "timeDay": 58,
     "timeWeek": 97,
-    "timeMonth": 110,
+    "timeMonth": 107,
     "timeYear": 143,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 51,
     "timeDay": 27,
     "timeWeek": 63,
-    "timeMonth": 50,
+    "timeMonth": 47,
     "timeYear": 51,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 78,
     "timeDay": 18,
     "timeWeek": 74,
-    "timeMonth": 75,
+    "timeMonth": 71,
     "timeYear": 79,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 122,
     "timeDay": 35,
     "timeWeek": 154,
-    "timeMonth": 140,
+    "timeMonth": 136,
     "timeYear": 128,
     "dailyMinutesDown": {}
   },
@@ -116,9 +116,9 @@
     "slug": "upload-post-app-angular",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 143,
     "timeDay": 215,
@@ -126,7 +126,6 @@
     "timeMonth": 160,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-08-16": 2,
       "2025-07-29": 16,
       "2025-07-26": 20
     }
@@ -138,9 +137,9 @@
     "slug": "linktree-clone-app-angular",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 125,
     "timeDay": 97,
@@ -148,7 +147,6 @@
     "timeMonth": 137,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-08-16": 2,
       "2025-07-29": 16,
       "2025-07-26": 20,
       "2024-10-22": 21
@@ -179,9 +177,9 @@
     "slug": "blog-app-angular",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 132,
     "timeDay": 2615,
@@ -189,7 +187,6 @@
     "timeMonth": 276,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2025-08-16": 2,
       "2025-07-29": 16,
       "2025-07-26": 20,
       "2024-10-22": 21
@@ -202,9 +199,9 @@
     "slug": "visitor-tracking-dashboard-mean-stack",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 147,
     "timeDay": 234,
@@ -212,7 +209,6 @@
     "timeMonth": 145,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-08-16": 2,
       "2025-07-29": 16,
       "2025-07-26": 20
     }
@@ -224,9 +220,9 @@
     "slug": "code-sharing-app-angular",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 129,
     "timeDay": 115,
@@ -234,7 +230,6 @@
     "timeMonth": 143,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-08-16": 2,
       "2025-07-29": 16,
       "2025-07-26": 20
     }
@@ -246,9 +241,9 @@
     "slug": "music-player-app-angular",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 134,
     "timeDay": 208,
@@ -256,7 +251,6 @@
     "timeMonth": 143,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2025-08-16": 2,
       "2025-07-29": 16,
       "2025-07-26": 20
     }
