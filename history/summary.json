@@ -4,19 +4,19 @@
     "url": "https://manthanank.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/manthanank.github.io.ico",
     "slug": "portfolio",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 157,
-    "timeWeek": 129,
-    "timeMonth": 131,
+    "timeDay": 161,
+    "timeWeek": 133,
+    "timeMonth": 132,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 7
     }
   },
   {
