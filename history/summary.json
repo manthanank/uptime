@@ -76,18 +76,20 @@
     "url": "https://manthanank.github.io/learn-javascript",
     "icon": "https://icons.duckduckgo.com/ip3/manthanank.github.io.ico",
     "slug": "learn-java-script",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 257,
-    "timeWeek": 266,
-    "timeMonth": 245,
-    "timeYear": 159,
-    "dailyMinutesDown": {}
+    "timeDay": 156,
+    "timeWeek": 240,
+    "timeMonth": 239,
+    "timeYear": 158,
+    "dailyMinutesDown": {
+      "2025-12-24": 0
+    }
   },
   {
     "name": "CheatSheet - Gatsby",
