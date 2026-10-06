@@ -11,8 +11,6 @@ sites:
     url: https://manthanank.github.io/blogs/
   - name: JavaScript Projects
     url: https://manthanank.github.io/javascript-projects
-  - name: Learn JavaScript
-    url: https://manthanank.github.io/learn-javascript
   - name: CheatSheet - Gatsby
     url: https://cheatsheetsapp.netlify.app/
   - name: Upload Post App - Angular
